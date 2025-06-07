@@ -1,0 +1,13 @@
+﻿{
+  "id": "dystopia_poly_script",
+  "name": "Polydystopia",
+  "version": "0.1",
+  "authors": [
+    "Paranoia"
+  ],
+  "dependencies": [
+    {
+      "id": "polytopia"
+    }
+  ]
+}
