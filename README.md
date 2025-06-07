@@ -1,6 +1,6 @@
 ## General
 
-This mod’s sole purpose is to redirect the Poly backend to a custom server.  
+This mod’s sole purpose is to redirect the game to a custom backend.  
 On first launch, it will generate a file named `polydystopia_server_config.json` in your game’s root directory.  
 Simply open that JSON file and update it to point at a custom server.
 
